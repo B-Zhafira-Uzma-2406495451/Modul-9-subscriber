@@ -1,0 +1,8 @@
+C:\Users\Zhafira Yoga Pro 7\Documents\pacil\sem 4\adpro\code\modul 9\subscriber\subscriber\target\debug\deps\icu_normalizer-16edf5368a46f255.d: C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\lib.rs C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\properties.rs C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\provider.rs C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\uts46.rs
+
+C:\Users\Zhafira Yoga Pro 7\Documents\pacil\sem 4\adpro\code\modul 9\subscriber\subscriber\target\debug\deps\libicu_normalizer-16edf5368a46f255.rmeta: C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\lib.rs C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\properties.rs C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\provider.rs C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\uts46.rs
+
+C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\lib.rs:
+C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\properties.rs:
+C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\provider.rs:
+C:\Users\Zhafira\ Yoga\ Pro\ 7\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.2.0\src\uts46.rs:
