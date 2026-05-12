@@ -22,3 +22,12 @@ publisher dijalankan beberapa kali secara cepat, di mana setiap eksekusi mengiri
 Karena publisher terus mengirimkan permintaan baru sementara subscriber masih sibuk memproses pesan sebelumnya,
 pesan-pesan yang belum terproses tersebut ditampung sementara di dalam antrean RabbitMQ . Pesan-pesan ini akan berkurang
 secara bertahap satu per satu seiring dengan selesainya pemrosesan yang dilakukan oleh subscriber yang lambat tersebut.  
+
+![Simulation slow subscriber](image3.png)
+Berdasarkan hasil simulasi dengan menjalankan setidaknya tiga subscriber secara bersamaan, terlihat bahwa beban
+pemrosesan pesan dari publisher tidak lagi menumpuk pada satu terminal saja. Dalam arsitektur berbasis event ini,
+RabbitMQ bertindak sebagai penyeimbang beban (load balancer) yang mendistribusikan pesan dari antrean kepada setiap
+subscriber yang tersedia. Hal ini menyebabkan lonjakan antrean pesan pada dashboard RabbitMQ berkurang jauh lebih cepat
+dibandingkan saat hanya menggunakan satu subscriber. Setiap subscriber memproses pesan secara bergantian, sehingga 
+meskipun masing-masing subscriber memiliki hambatan waktu pemrosesan, sistem secara keseluruhan tetap responsif karena
+tugas-tugas tersebut dikerjakan secara paralel oleh banyak pekerja.
