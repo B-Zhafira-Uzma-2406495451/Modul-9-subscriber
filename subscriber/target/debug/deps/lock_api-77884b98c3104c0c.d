@@ -1,0 +1,10 @@
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/lock_api-77884b98c3104c0c.d: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/liblock_api-77884b98c3104c0c.rlib: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/liblock_api-77884b98c3104c0c.rmeta: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs
+
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs:

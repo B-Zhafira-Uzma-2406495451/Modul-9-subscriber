@@ -1,0 +1,10 @@
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/walkdir-dd266d96b22867c9.d: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/libwalkdir-dd266d96b22867c9.rlib: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/libwalkdir-dd266d96b22867c9.rmeta: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs
+
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs:

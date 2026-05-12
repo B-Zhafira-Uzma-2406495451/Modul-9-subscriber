@@ -1,0 +1,9 @@
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/signal_hook_registry-c2b3c1cebb620177.d: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/libsignal_hook_registry-c2b3c1cebb620177.rlib: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/libsignal_hook_registry-c2b3c1cebb620177.rmeta: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
+
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs:

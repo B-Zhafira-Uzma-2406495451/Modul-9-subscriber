@@ -1,0 +1,10 @@
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/log-06a4290e61ce4389.d: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/liblog-06a4290e61ce4389.rlib: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/mnt/c/Users/Zhafira Yoga Pro 7/Documents/pacil/sem 4/adpro/code/modul 9/subscriber/subscriber/target/debug/deps/liblog-06a4290e61ce4389.rmeta: /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs:
+/home/zhafira_yoga_pro_7/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs:
